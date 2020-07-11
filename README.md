@@ -1,3 +1,3 @@
-Automate Spotify and Youtube:
+Automate Spotify and Youtube with Python.
 ----
 
